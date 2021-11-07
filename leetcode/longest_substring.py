@@ -16,9 +16,8 @@
 # Input: s = ""
 # Output: 0
 
-
+my approach ->  will work for 3 usecases, will miss on 1 usecase.
 #     def lengthOfLongestSubstring(self, s: str) -> int:
-my approach   will work for 3 usecases, will miss on 1 usecase.
 #         count = 0
 #         add_list = []
 #         for i in range(len(s)):
