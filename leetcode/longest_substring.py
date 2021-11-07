@@ -13,9 +13,12 @@
 # Explanation: The answer is "wke", with the length of 3.
 # Notice that the answer must be a substring, "pwke" is a subsequence and not a substring.
 
+# Input: s = ""
+# Output: 0
+
 
 #     def lengthOfLongestSubstring(self, s: str) -> int:
-my approach
+my approach   will work for 3 usecases, will miss on 1 usecase.
 #         count = 0
 #         add_list = []
 #         for i in range(len(s)):
